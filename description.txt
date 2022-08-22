@@ -1,0 +1,4 @@
+Analizando la descripción de problema, me apoye en las características del 
+bombillo que alumbra en ángulos rectos, entonces me enfoque en las vértices de los 
+rectángulos que se conforman con unos y simulan ser paredes, siempre verificando que 
+en el eje X o Y no tenga otro bombillo apuntando
