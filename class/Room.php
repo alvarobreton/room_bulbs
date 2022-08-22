@@ -40,7 +40,7 @@ class Room {
                     if($this->room[$x-1][$y-1] != '+')
                     {
                         $this->room[$x][$y] = '+';
-
+                        
                         if ($this->searchBulb($x,$y)) 
                         {
 
